@@ -1,0 +1,99 @@
+﻿Course,Title,Type,longcode
+30000, Financial Accounting,Foundation,30000 - Financial Accounting
+30116, Accounting and Financial Analysis,Foundation,30116 - Accounting and Financial Analysis
+30120," Accounting, Economic, and Regulatory Issues in Complex Deals",Foundation,"30120 - Accounting, Economic, and Regulatory Issues in Complex Deals"
+30122, Deal Structuring and Financial Reporting Implications,Foundation,30122 - Deal Structuring and Financial Reporting Implications
+30130, Financial Statement Analysis,Foundation,30130 - Financial Statement Analysis
+30131, Advanced Financial Analysis and Valuation for Global Firms,Foundation,30131 - Advanced Financial Analysis and Valuation for Global Firms
+33001, Microeconomics,Foundation,33001 - Microeconomics
+33002, Accelerated Microeconomics,Foundation,33002 - Accelerated Microeconomics
+33101, Advanced Microeconomic Analysis,Foundation,33101 - Advanced Microeconomic Analysis
+41000, Business Statistics,Foundation,41000 - Business Statistics
+41100, Applied Regression Analysis,Foundation,41100 - Applied Regression Analysis
+41201, Big Data,Foundation,41201 - Big Data
+41202, Analysis of Financial Time Series,Foundation,41202 - Analysis of Financial Time Series
+41203, Financial Econometrics,Foundation,41203 - Financial Econometrics
+41204, Machine Learning,Foundation,41204 - Machine Learning
+41301," Statistical Insight into Marketing, Consulting, and Entrepreneurship",Foundation,"41301 - Statistical Insight into Marketing, Consulting, and Entrepreneurship"
+41901, Probability and Statistics,Foundation,41901 - Probability and Statistics
+41902, Statistical Inference,Foundation,41902 - Statistical Inference
+41903, Applied Econometrics,Foundation,41903 - Applied Econometrics
+41910, Time-series Analysis for Forecasting and Model Building,Foundation,41910 - Time-series Analysis for Forecasting and Model Building
+41911, Advanced Econometrics,Foundation,41911 - Advanced Econometrics
+41912, Applied Multivariate Analysis,Foundation,41912 - Applied Multivariate Analysis
+41913, Bayesian Inference,Foundation,41913 - Bayesian Inference
+41914, Multivariate Time Series Analysis,Foundation,41914 - Multivariate Time Series Analysis
+34101, Entrepreneurial Finance and Private Equity,Finance,34101 - Entrepreneurial Finance and Private Equity
+34901, Asset Pricing I,Finance,34901 - Asset Pricing I
+34902, Asset Pricing II,Finance,34902 - Asset Pricing II
+34903, Corporate Finance I,Finance,34903 - Corporate Finance I
+34904, Corporate Finance II,Finance,34904 - Corporate Finance II
+35000, Investments,Finance,35000 - Investments
+35001, Introductory Finance,Finance,35001 - Introductory Finance
+35100, Financial Instruments,Finance,35100 - Financial Instruments
+35120, Portfolio Management,Finance,35120 - Portfolio Management
+35130, Fixed Income Asset Pricing,Finance,35130 - Fixed Income Asset Pricing
+35150, Advanced Investments,Finance,35150 - Advanced Investments
+35200, Corporation Finance,Finance,35200 - Corporation Finance
+35201, Cases in Financial Management,Finance,35201 - Cases in Financial Management
+35210, International Corporate Finance,Finance,35210 - International Corporate Finance
+35214," Debt, Distress, and Restructuring",Finance,"35214 - Debt, Distress, and Restructuring"
+35905, Topics in Empirical Finance,Finance,35905 - Topics in Empirical Finance
+37000, Marketing Strategy,Marketing,37000 - Marketing Strategy
+37100, Marketing Strategy with Simulation,Marketing,37100 - Marketing Strategy with Simulation
+37101, Consumer Behavior,Marketing,37101 - Consumer Behavior
+37103, Data-Driven Marketing,Marketing,37103 - Data-Driven Marketing
+37105, Data Science for Marketing Decision Making,Marketing,37105 - Data Science for Marketing Decision Making
+37106, Marketing Research Lab,Marketing,37106 - Marketing Research Lab
+37107, Experimental Marketing,Marketing,37107 - Experimental Marketing
+37110, Marketing Strategy (with Sustainability Simulation),Marketing,37110 - Marketing Strategy (with Sustainability Simulation)
+37200, New Products and Services,Marketing,37200 - New Products and Services
+37201, Lab in Developing New Products and Services,Marketing,37201 - Lab in Developing New Products and Services
+37202, Pricing Strategies,Marketing,37202 - Pricing Strategies
+37208, Selling and Sales Management,Marketing,37208 - Selling and Sales Management
+37209, Brand Management in a Digital Age,Marketing,37209 - Brand Management in a Digital Age
+37301, Digital Marketing,Marketing,37301 - Digital Marketing
+37304, Digital and Algorithmic Marketing,Marketing,37304 - Digital and Algorithmic Marketing
+37703, Digital Marketing Lab,Marketing,37703 - Digital Marketing Lab
+37704, Algorithmic Marketing Lab,Marketing,37704 - Algorithmic Marketing Lab
+40000, Operations Management: Business Process Fundamentals,Ops,40000 - Operations Management: Business Process Fundamentals
+40101, Supply Chain Strategy and Practice,Ops,40101 - Supply Chain Strategy and Practice
+40108, Revenue Management,Ops,40108 - Revenue Management
+40110, Managing Service Operations,Ops,40110 - Managing Service Operations
+30001, Cost Analysis and Internal Controls,Decisions,30001 - Cost Analysis and Internal Controls
+36106, Managerial Decision Modeling,Decisions,36106 - Managerial Decision Modeling
+36109, Advanced Decision Models with Python,Decisions,36109 - Advanced Decision Models with Python
+38002, Managerial Decision Making,Decisions,38002 - Managerial Decision Making
+31403, Leadership Studio,People,31403 - Leadership Studio
+33032, Managing the Workplace,People,33032 - Managing the Workplace
+38001, Managing in Organizations,People,38001 - Managing in Organizations
+38003, Power and Influence in Organizations,People,38003 - Power and Influence in Organizations
+38122, Diversity in Organizations,People,38122 - Diversity in Organizations
+39002, Strategic Leadership in Management Networks,People,39002 - Strategic Leadership in Management Networks
+39001, Strategy and Structure: Markets and Organizations,Strategy,39001 - Strategy and Structure: Markets and Organizations
+39101, Technology Strategy,Strategy,39101 - Technology Strategy
+42001, Competitive Strategy,Strategy,42001 - Competitive Strategy
+42116, Game Theory,Strategy,42116 - Game Theory
+42117, Platform Competition ⑤,Strategy,42117 - Platform Competition ⑤
+42130, Industry Analysis ⑤,Strategy,42130 - Industry Analysis ⑤
+42715, Strategy Simulation: Creating Value in Complex and Ambiguous Settings,Strategy,42715 - Strategy Simulation: Creating Value in Complex and Ambiguous Settings
+33040, Macroeconomics,Economy,33040 - Macroeconomics
+33050, Macroeconomics and the Business Environment,Economy,33050 - Macroeconomics and the Business Environment
+33112, Business in Historical Perspective,Economy,33112 - Business in Historical Perspective
+33401, Money and Banking,Economy,33401 - Money and Banking
+33402, Understanding Central Banks,Economy,33402 - Understanding Central Banks
+33403, Advanced Macroeconomics,Economy,33403 - Advanced Macroeconomics
+33501, International Commercial Policy,Economy,33501 - International Commercial Policy
+33502, International Financial Policy,Economy,33502 - International Financial Policy
+33503, Managing the Firm in the Global Economy,Economy,33503 - Managing the Firm in the Global Economy
+33520, The Wealth of Nations,Economy,33520 - The Wealth of Nations
+33522, Chinese Economy,Economy,33522 - Chinese Economy
+33251, Perspectives on Capitalism Seminar,Society,33251 - Perspectives on Capitalism Seminar
+33304," Law, Economics and Business",Society,"33304 - Law, Economics and Business"
+33305, The Firm and the Non-Market Environment,Society,33305 - The Firm and the Non-Market Environment
+33471," Business, Politics, and Ethics",Society,"33471 - Business, Politics, and Ethics"
+34113, Impact Investing,Society,34113 - Impact Investing
+34117, Social Entrepreneurship and Innovation,Society,34117 - Social Entrepreneurship and Innovation
+38115, Ethics of Business,Society,38115 - Ethics of Business
+38119, Designing a Good Life,Society,38119 - Designing a Good Life
+42201, The Legal Infrastructure of Business,Society,42201 - The Legal Infrastructure of Business
